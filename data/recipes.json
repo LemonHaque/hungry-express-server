@@ -1,0 +1,85 @@
+[
+        {
+            "id": 1,
+            "recipe_name": "Biryani",
+            "ingredients": [
+                "2 cups basmati rice",
+                "1 lb chicken, cut into pieces",
+                "1 onion, sliced",
+                "2 tomatoes, chopped",
+                "1 tsp cumin seeds",
+                "1 tsp garam masala",
+                "1 tsp turmeric",
+                "1/4 cup yogurt",
+                "1/4 cup cilantro, chopped"
+            ],
+            "cooking_method": "1. Rinse rice in cold water and soak for 30 minutes. \n2. In a large pot, heat oil over medium-high heat. \n3. Add cumin seeds and sauté for 1 minute. \n4. Add onion and sauté until softened. \n5. Add chicken and cook until browned. \n6. Add chopped tomatoes, garam masala, and turmeric. \n7. Stir in yogurt and cook for 5-10 minutes. \n8. Drain rice and add to the pot. \n9. Add enough water to cover the rice by about an inch. \n10. Bring to a boil, then reduce heat to low and cover. \n11. Cook for 20-25 minutes or until rice is tender. \n12. Garnish with cilantro and serve hot.",
+            "rating": 4.5
+        },
+        {
+            "id": 2,
+            "recipe_name": "Chicken Sizzling",
+            "ingredients": [
+                "1 lb chicken breast, sliced",
+                "1/2 onion, sliced",
+                "1 bell pepper, sliced",
+                "1 tsp cumin",
+                "1 tsp chili powder",
+                "1 tsp garlic powder",
+                "1/4 cup cilantro, chopped"
+            ],
+            "cooking_method": "1. In a large skillet, heat oil over medium-high heat. \n2. Add chicken and cook until browned. \n3. Add onion and bell pepper and cook until softened. \n4. Add cumin, chili powder, and garlic powder. \n5. Stir and cook for 1-2 minutes. \n6. Transfer to a sizzling plate and garnish with cilantro. \n7. Serve hot.",
+            "rating": 4.0
+        },
+        {
+            "id": 3,
+            "recipe_name": "Chicken Curry",
+            "ingredients": [
+                "1 lb chicken, cut into pieces",
+                "1 onion, diced",
+                "2 tomatoes, chopped",
+                "1 tsp cumin",
+                "1 tsp coriander",
+                "1 tsp turmeric",
+                "1 tsp garam masala",
+                "1/4 cup coconut milk",
+                "1/4 cup cilantro, chopped"
+            ],
+            "cooking_method": "1. In a large pot, heat oil over medium-high heat. \n2. Add onion and sauté until softened. \n3. Add chicken and cook until browned. \n4. Add chopped tomatoes, cumin, coriander, turmeric, and garam masala. \n5. Stir and cook for 5-10 minutes. \n6. Add coconut milk and cook for an additional 10 minutes. \n7. Garnish with cilantro and serve hot.",
+            "rating": 4.2
+        },
+        {
+            "id": 4,
+            "recipe_name": "Fish Curry",
+            "ingredients": [
+                "1 lb white fish, cut into pieces",
+                "1 onion, diced",
+                "2 tomatoes, chopped",
+                "1 tsp cumin",
+                "1 tsp coriander",
+                "1 tsp turmeric",
+                "1 tsp garam masala",
+                "1/4 cup coconut milk",
+                "1/4 cup cilantro, chopped"
+            ],
+            "cooking_method": "1. In a large pot, heat oil over medium-high heat. \n2. Add onion and sauté until softened. \n3. Add fish and cook until browned. \n4. Add chopped tomatoes, cumin, coriander, turmeric, and garam masala. \n5. Stir and cook for 5-10 minutes. \n6. Add coconut milk and cook for an additional 10 minutes. \n7. Garnish with cilantro and serve hot.",
+            "rating": 4.7
+        },
+        {
+            "id": 5,
+            "recipe_name": "Meat Curry",
+            "ingredients": [
+                "1 lb beef, cut into pieces",
+                "1 onion, diced",
+                "2 tomatoes, chopped",
+                "1 tsp cumin",
+                "1 tsp coriander",
+                "1 tsp turmeric",
+                "1 tsp garam masala",
+                "1/4 cup coconut milk",
+                "1/4 cup cilantro, chopped"
+            ],
+            "cooking_method": "1. In a large pot, heat oil over medium-high heat. \n2. Add onion and sauté until softened. \n3. Add beef and cook until browned. \n4. Add chopped tomatoes, cumin, coriander, turmeric, and garam masala. \n5. Stir and cook for 5-10 minutes. \n6. Add coconut milk and cook for an additional 10 minutes. \n7. Garnish with cilantro and serve hot.",
+            "rating": 4.3
+        }
+    ]
