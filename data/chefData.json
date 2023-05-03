@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "chefName": "John Smith",
+        "bio": "John Smith is a renowned chef with over 20 years of experience in the culinary arts. He specializes in French cuisine and has worked at some of the top restaurants in the world.",
+        "photoUrl": "https://i.ibb.co/QkvCDFJ/chef1.jpg",
+        "yearsOfExperience": 20,
+        "likes": 5000,
+        "numberOfRecipes": 100
+    },
+    {
+        "id": 2,
+        "chefName": "Tithia Haque",
+        "bio": "Jane Doe is a rising star in the culinary world. She has trained under some of the best chefs in the industry and has a passion for creating innovative and delicious dishes.",
+        "photoUrl": "https://i.ibb.co/jLdj6vg/chef2.jpg",
+        "yearsOfExperience": 5,
+        "likes": 5000,
+        "numberOfRecipes": 80
+    },
+    {
+        "id": 3,
+        "chefName": "Sadaf Muttakin",
+        "bio": "Sadaf Muttakin is a classically trained chef with over 15 years of experience. He has worked in both fine dining and casual restaurants, and has a talent for creating dishes that are both beautiful and delicious.",
+        "photoUrl": "https://i.ibb.co/JqKWgcS/chef3.jpg",
+        "yearsOfExperience": 5,
+        "likes": 2000,
+        "numberOfRecipes": 43
+    },
+    {
+        "id": 4,
+        "chefName": "Michael Johnson",
+        "bio": "Michael Johnson is a classically trained chef with over 15 years of experience. He has worked in both fine dining and casual restaurants, and has a talent for creating dishes that are both beautiful and delicious.",
+        "photoUrl": "https://i.ibb.co/Sn62B7n/chef4.jpg",
+        "yearsOfExperience": 15,
+        "likes": 3000,
+        "numberOfRecipes": 75
+    },
+    {
+        "id": 5,
+        "chefName": "Samiur Rahman",
+        "bio": "Samiur Rahman is a classically trained chef with over 15 years of experience. He has worked in both fine dining and casual restaurants, and has a talent for creating dishes that are both beautiful and delicious.",
+        "photoUrl": "https://i.ibb.co/6thDTp6/chef5.jpg",
+        "yearsOfExperience": 15,
+        "likes": 3000,
+        "numberOfRecipes": 75
+    },
+    {
+        "id": 6,
+        "chefName": "Sakib Hasan",
+        "bio": "Sakib Hasan is a classically trained chef with over 15 years of experience. He has worked in both fine dining and casual restaurants, and has a talent for creating dishes that are both beautiful and delicious.",
+        "photoUrl": "https://i.ibb.co/0KmtnJc/chef6.jpg",
+        "yearsOfExperience": 9,
+        "likes": 4200,
+        "numberOfRecipes": 47
+    }
+]
