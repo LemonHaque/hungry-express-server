@@ -16,5 +16,14 @@
         "yearsOfExperience": 5,
         "likes": 5000,
         "numberOfRecipes": 80
+    },
+    {
+        "id": 3,
+        "chefName": "Sadaf Muttakin",
+        "bio": "Sadaf Muttakin is a classically trained chef with over 15 years of experience. He has worked in both fine dining and casual restaurants, and has a talent for creating dishes that are both beautiful and delicious.",
+        "photoUrl": "https://i.ibb.co/JqKWgcS/chef3.jpg",
+        "yearsOfExperience": 5,
+        "likes": 2000,
+        "numberOfRecipes": 43
     }
 ]
